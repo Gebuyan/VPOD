@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\yanbuge\source\repos\VMSVM\VMSVM\main.cpp(169,42): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+C:\Users\yanbuge\source\repos\VMSVM\VMSVM\main.cpp(173,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yanbuge\source\repos\VMSVM\VMSVM\main.cpp(210,20): error C2086: “std::vector<double,std::allocator<double>> d”: 重定义
+C:\Users\yanbuge\source\repos\VMSVM\VMSVM\main.cpp(87,20): message : 参见“d”的声明
